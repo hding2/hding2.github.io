@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuan's Short Bio"
+title                    : "Haoran's Short Bio"
 title_separator          : "-"
 name                     : &name "Yuan Fang"
 description              : &description "personal description"
